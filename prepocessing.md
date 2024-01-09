@@ -1,3 +1,8 @@
+---
+title: 引言
+layout: default
+---
+
 # 线性代数
 :label:`sec_linear-algebra`
 
